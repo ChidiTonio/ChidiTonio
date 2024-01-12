@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I am a skilled and detail-oriented Data Scientist with 3 years experience in applied Mathematics and statistics for data oriented , and 3 months experience as a data analyst for strategic planning and entrepreneurship in Frank Schmitt construction firm.
+I am a skilled and deta-oriented Data Scientist with 5 years experience in applied Mathematics and statistics for data science/ML, and 2 year experience as a data analyst for strategic planning and entrepreneurship.
 
 My current pursuit of an M.Sc in Data Science has developed in me a strong interest in the applications of data, artificial intelligence, machine learning and others applied statistical data analysis to drive solutions for everyday problems.
 
