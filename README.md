@@ -3,11 +3,11 @@
 
 
 ## 🚀 About Me
-I am a skilled and deta-oriented Data Scientist with 5 years experience in applied Mathematics and statistics for data science/ML, and 2 year experience as a data analyst for strategic planning and entrepreneurship.
+Easy going data-driven research and optimistic quantitative researcher with years experience in applied computational statistical methods. I propose and support of the use of data and its analysis to solving human challenges.A strategic planner and entrepreneur.
 
-My current pursuit of an M.Sc in Data Science has developed in me a strong interest in the applications of data, artificial intelligence, machine learning and others applied statistical data analysis to drive solutions for everyday problems.
+My current pursuit in the world of Data-world, cryptography and blockchain has developed in me a strong interest in the applications of artificial intelligence, machine learning and others applied statistical data analysis to drive solutions for everyday problems.
 
-Proficient in multiple programming languages, quantitative methodologies, software development tools, enerative AI and database management systems to drive data-informed decisions. Experienced working in a multicultural setting, possess strong problem-solving skills, and the ability to work effectively in a team. 
+Proficient in multiple programming languages, quantitative methodologies, software development tools, generative AI and database management systems to drive data-informed decisions. Experienced working in a multicultural setting, possess strong problem-solving skills, and the ability to work effectively in a team. 
 
 
 ## 🛠 Skills
